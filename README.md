@@ -1,5 +1,9 @@
 # Linux-surface Kernel Configurations
 
+_Note:_
+_These configurations will not be updated any more._
+_Please use the fragments at [github.com/linux-surface/linux-surface][linux-surface-repo], the config provided by your distribution, and the `merge_config.sh` script provided by the kernel._
+
 Kernel configurations for the linux-surface [kernel][linux-surface-kernel] and [patchset][linux-surface-repo].
 
 ## Configuration Files
